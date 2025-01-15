@@ -1,8 +1,8 @@
 <!-- manifest.json -->
 {
-    "name": "Chatterbots.io",
-    "short_name": "Chatterbots",
-    "description": "AI Chatbot Solutions by IT Monger LLC",
+    "name": "ChatterBots.io",
+    "short_name": "ChatterBots",
+    "description": "AI Chatbot & Agent Solutions by IT Monger LLC",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",

@@ -1,0 +1,7 @@
+<!-- robots.txt -->
+User-agent: *
+Allow: /
+Sitemap: https://chatterbots.io/sitemap.xml
+Disallow: /private/
+Disallow: /admin/
+Disallow: /temp/

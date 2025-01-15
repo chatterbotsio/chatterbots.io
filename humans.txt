@@ -1,0 +1,16 @@
+<!-- humans.txt -->
+/* TEAM */
+    Company: IT Monger LLC
+    Site: https://chatterbots.io
+    Contact: contact@chatterbots.io
+    Location: [Your Location]
+
+/* SITE */
+    Last update: 2024/01/14
+    Standards: HTML5, CSS3
+    Components: Jekyll, JavaScript
+    Software: Visual Studio Code, Git
+
+/* SPECIAL THANKS */
+    Jekyll
+    GitHub Pages

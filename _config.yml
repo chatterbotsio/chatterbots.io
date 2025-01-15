@@ -1,0 +1,29 @@
+title: Chatterbots.io
+description: AI Chatbot Solutions by IT Monger LLC
+url: "https://chatterbots.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+# Site settings
+company:
+  name: IT Monger LLC
+  email: hello@chatterbots.io
+
+# Social links
+social:
+  github: itmonger
+  linkedin: company/itmonger
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Services
+    url: /services
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact

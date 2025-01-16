@@ -2,20 +2,23 @@
 <header class="site-header">
     <!-- Google Analytics Script (place in header) -->
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR-GA4-ID"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FZBCX4HNRC"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-    gtag('config', 'YOUR-GA4-ID');
+      gtag('config', 'G-FZBCX4HNRC');
     </script>
     <div class="container">
         <nav class="main-nav">
-            <div class="logo-container">
-                <a href="{{ '/' | relative_url }}">
-                    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Chatterbots.io Logo" class="logo">
-                </a>
+            <div class="branding">
+                <div class="logo-container">
+                    <a href="{{ '/' | relative_url }}">
+                        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Chatterbots.io Logo" class="logo">
+                    </a>
+                </div>
+                <a href="{{ '/' | relative_url }}" class="site-title">chatterbots.io</a>
             </div>
             <div class="nav-links">
                 {% for item in site.nav %}

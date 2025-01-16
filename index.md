@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Chatterbots.io - AI Chatbot & Agent Solutions
+title: Chatterbots.io - AI Chatbot Solutions
 ---
-
-# ChatterBots
-
-![ChatterBots Logo](/assets/images/logo.png)
 
 ## Intelligent Chatbot Solutions for Modern Businesses
 

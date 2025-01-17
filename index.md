@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Chatterbots.io - AI Chatbot Solutions
+title: Chatterbots - AI Chatbot Solutions
 ---
 
 ## Intelligent Chatbot Solutions for Modern Businesses
 
-Transform your customer experience with custom AI chatbots and agents designed, hosted, and maintained by IT Monger LLC.
+Transform your customer experience with custom AI chatbots designed, hosted, and maintained by IT Monger LLC.
 
 ### Our Services
 
